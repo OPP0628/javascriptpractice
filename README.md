@@ -1,2 +1,2 @@
 # javascriptpractice
-learning-js-watching-procgression.
+learning-js-watching-progression.
